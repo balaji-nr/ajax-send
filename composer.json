@@ -10,7 +10,7 @@
         "ajax"
     ],
     "type": "yii2-extension",
-    "license": "BSD-3",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Balaji",
