@@ -1,6 +1,6 @@
 <?php
 
-namespace rebzden\ajaxsend;
+namespace balaji\ajaxsend;
 
 
 use yii\base\Widget;

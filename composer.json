@@ -1,8 +1,8 @@
 {
-    "name": "rebzden/ajax-send",
+    "name": "balaji/ajax-send",
     "description": "Send ajax requests easily",
     "keywords": [
-        "rebzden",
+        "balaji",
         "yii",
         "yii2",
         "yii 2",
@@ -13,8 +13,8 @@
     "license": "BSD-3",
     "authors": [
         {
-            "name": "Kacper Brezdeń",
-            "email": "kacperbrezden@gmail.com"
+            "name": "Balaji",
+            "email": "balaji.k@neuralrays.ai"
         }
     ],
     "require": {
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "rebzden\\ajaxsend\\": "src"
+            "balaji\\ajaxsend\\": "src"
         }
     }
 }
