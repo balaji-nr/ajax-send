@@ -1,2 +1,2 @@
-# yii2-ajax-send
+# yii2-ajax-request
 Send ajax requests easily
